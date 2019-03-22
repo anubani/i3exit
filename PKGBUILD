@@ -12,8 +12,7 @@ depends=('i3-gaps'
 optdepends=('lightdm-gtk-greeter: switch user with lightdm')
 source=("$pkgname"
     'blurlock')
-md5sums=('cf20f699b2cdc2fb7d22075866e54a9f'
-         'e3699b2b3acaa6e59e4d40d9229273ea')
+md5sums=('SKIP')
 
 pkgver() {
 	date +'%Y%m%d'
