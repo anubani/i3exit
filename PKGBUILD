@@ -1,4 +1,6 @@
 # Maintainer: Ali Nubani <ali.alnubani94@gmail.com>
+# To Build:
+# $ makepkg -cC --skipinteg -f
 
 pkgname=i3exit
 pkgver=20190322
