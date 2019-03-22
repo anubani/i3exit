@@ -1,4 +1,4 @@
-# Maintainer: Bernhard Landauer <oberon@manjaro.org>
+# Maintainer: Ali Nubani <ali.alnubani94@gmail.com>
 
 pkgname=i3exit
 pkgver=20180529
